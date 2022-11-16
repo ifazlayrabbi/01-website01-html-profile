@@ -1,2 +1,2 @@
 # site
-This is a Sample Work.
+This is a sample profile-website built with html.
