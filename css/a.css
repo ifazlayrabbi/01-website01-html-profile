@@ -3,7 +3,7 @@
 
 body{
     background-color: #eaf6f6;
-
+    padding: 7% 15%;
 }
 
 hr{
@@ -16,5 +16,9 @@ hr{
 
 h1, h3{
     color: #5DA7DB;
+}
+
+.work-list {
+    border: 10px solid #eaf6f6
 }
 
